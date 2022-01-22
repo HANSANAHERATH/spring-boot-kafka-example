@@ -28,7 +28,7 @@ Open a new CMD and run bellow command and then send a message.
 Step4 : start the consumer which listens to the topic **Test-Topic** we just created above.
 
 ```
-.\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic javainuse-topic --from-beginning
+.\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic Test-Topic --from-beginning
 ```
 
 #Using Spring boot App
