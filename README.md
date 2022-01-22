@@ -1,5 +1,7 @@
 # spring-boot-kafka-example
 
+Download apache kafka binary : https://archive.apache.org/dist/kafka/2.8.1/kafka_2.12-2.8.1.tgz
+
 Step1 : Start zookeeper
 
 For start zookeeper open a CMD in kafka downloaded folder and run bellow command.
